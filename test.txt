@@ -1,1 +1,1 @@
-Creating a test file for the test branch.
+Creating a test file and forcing a merge conflict with the main branch. 

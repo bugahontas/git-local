@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Forcing a merge conflict with main and test branches.
+=======
+Creating a test file and forcing a merge conflict with the main branch. 
+>>>>>>> test
+Hi there! I'm experimenting merge conflicts!

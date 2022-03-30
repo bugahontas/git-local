@@ -1,1 +1,1 @@
-Another text file created for testing the --git branch-- commands.
+Another text file created for testing the different branches.
